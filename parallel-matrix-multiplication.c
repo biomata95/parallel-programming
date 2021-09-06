@@ -7,7 +7,7 @@
 
 // Name: Icaro Neves Melo
 
-// Parallel Matrix Multiplication
+// Parallel Matrix Multiplication using OpenMP
 
 struct timeval start, end;  // Time counters
  
